@@ -124,3 +124,4 @@
       $(".article a[href]").attr("target", "_blank")
   }
   $(".archive-article-title").attr("target", "_blank");
+
